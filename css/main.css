@@ -1,5 +1,5 @@
 html {
-  font-family: "Merriweather", serif;
+  font-family: Merriweather, serif;
 }
 
 th {
@@ -8,7 +8,7 @@ th {
 
 td {
   border: 1px solid #ccc;
-  height: 9rem;
+  height: 9.8rem;
 }
 
 .grey {
